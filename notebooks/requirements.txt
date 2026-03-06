@@ -1,0 +1,17 @@
+# --- Core AI & Vision ---
+ultralytics>=8.1.0
+opencv-python>=4.8.0
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+
+# --- GUI ---
+PyQt5>=5.15.9
+
+# --- Voice Recognition ---
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.13
+
+# --- Tools ---
+pandas>=2.0.0
+matplotlib>=3.7.0
